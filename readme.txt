@@ -1,6 +1,6 @@
 Hello, World!
 Ming(Kandit Tanthanathewin)
-KKU test configascasc
+KKU test config
 HI BRO
 test pull
 testeeee
