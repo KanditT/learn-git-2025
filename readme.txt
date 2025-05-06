@@ -1,5 +1,5 @@
 Hello, World!
 Ming(Kandit Tanthanathewin)
-KKU
+KKU test config
 HI BRO
 test pull
